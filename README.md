@@ -21,8 +21,7 @@ There are two mode for the end user:
   1. User Mode
   2. Admin Mode
 
-
-
+<br/><br/>
 I. User Mode:
    - The homepage of the application can be seen as below:
 
