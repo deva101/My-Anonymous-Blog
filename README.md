@@ -1,5 +1,5 @@
 # My Anonymous Blog
-It is a platform where people can share anything and if they doesn’t want to reveal their identity, they are free to do that also. The application also contains the basic features such as etc…
+It is a platform where people can share anything and if they doesn’t want to reveal their identity, they are free to do that also. The application also contains the basic features such as login and registration, profile management, person details, posting and formatting a message etc…
 
 Built on PHP framework (Codeigniter) as Back-end and HTML, CSS and Bootstrap as Front-end.
 
