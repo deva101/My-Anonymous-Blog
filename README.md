@@ -23,7 +23,7 @@ There are two mode for the end user:
 
 
 
-1. User Mode:
+I. User Mode:
    - The homepage of the application can be seen as below:
 
 ![alt text](https://github.com/deva101/My-Anonymous-Blog/blob/master/basic/Info/ScreenShots/User_Index.png)
@@ -39,8 +39,8 @@ identity he can check the Anonymous checkbox in Right side.
 ![alt text](https://github.com/deva101/My-Anonymous-Blog/blob/master/basic/Info/ScreenShots/User_message.png)
 
 
-
-2. Admin Mode:
+<br/><br/>
+II. Admin Mode:
    - The homepage of Admin Panel contains two tabs namely Users and Posts.
    - The admin can remove any user from User Pane and the search box can be used to find
 specific user.
