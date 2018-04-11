@@ -22,8 +22,10 @@ There are two mode for the end user:
   2. Admin Mode
 
 
+
 1. User Mode:
    - The homepage of the application can be seen as below:
+
 ![alt text](https://github.com/deva101/My-Anonymous-Blog/blob/master/basic/Info/ScreenShots/User_Index.png)
 
    - The menubar contains various tabs
@@ -31,3 +33,27 @@ There are two mode for the end user:
 identity he can check the Anonymous checkbox in Right side.
 
 ![alt text](https://github.com/deva101/My-Anonymous-Blog/blob/master/basic/Info/ScreenShots/User_post.png)
+
+   - The Blog tab lists all the posts by the user approved by the admin
+
+![alt text](https://github.com/deva101/My-Anonymous-Blog/blob/master/basic/Info/ScreenShots/User_message.png)
+
+
+
+2. Admin Mode:
+   - The homepage of Admin Panel contains two tabs namely Users and Posts.
+   - The admin can remove any user from User Pane and the search box can be used to find
+specific user.
+
+![alt text](https://github.com/deva101/My-Anonymous-Blog/blob/master/basic/Info/ScreenShots/Admin_user.png)
+
+   - The Posts panel lists all the posts by the user and Admin can decide as to Approve, Reject or
+let it be in Pending status. The search box can be used to find the posts of specific user.
+
+![alt text](https://github.com/deva101/My-Anonymous-Blog/blob/master/basic/Info/ScreenShots/Admin_post.png)
+
+
+
+
+
+
